@@ -1,0 +1,17 @@
+[
+    {
+        "file": "manual.pdf",
+        "page": 1,
+        "text": "设备名称：工业压缩机"
+    },
+    {
+        "file": "manual.pdf",
+        "page": 2,
+        "text": "最高工作压力：10MPa"
+    },
+    {
+        "file": "manual.pdf",
+        "page": 3,
+        "text": "工作温度：-10℃到50℃"
+    }
+]
